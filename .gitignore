@@ -9,7 +9,7 @@ node_modules
 /coverage
 
 # next.js
-/.next/
+*.next/
 /out/
 
 #pycharm
@@ -38,3 +38,5 @@ yarn-error.log*
 
 #virtualenv
 venv
+
+
